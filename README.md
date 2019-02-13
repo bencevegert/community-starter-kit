@@ -1,10 +1,12 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Test app. Do NOT miss IT!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Dance
+* Sing
+* Sleep
 
 ## Getting started
 
